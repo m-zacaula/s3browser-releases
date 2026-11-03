@@ -6,6 +6,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>S3 Browser 2.5</title>
+      <pubDate>Tue, 03 Nov 2026 15:49:25 -0600</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Download as .zip asks for a name and folder (Downloads by default, so you can just click Download)</li></ul>]]></description>
+      <enclosure url="https://github.com/m-zacaula/s3browser-releases/releases/download/v2.5/S3Browser-2.5.zip" type="application/octet-stream" sparkle:edSignature="oMNmD8TXTvd5vb/HMp1et16x5I3sH9mTsOHJdq8nRZbz4IFL5hErG9tU4Q3RHTpOBWCR6Ww2ci2/2T8q1mNFCA==" length="32162592"/>
+    </item>
+    <item>
       <title>S3 Browser 2.4</title>
       <pubDate>Tue, 03 Nov 2026 14:36:34 -0600</pubDate>
       <sparkle:version>6</sparkle:version>
