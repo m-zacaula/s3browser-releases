@@ -6,6 +6,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>S3 Browser 2.3</title>
+      <pubDate>Tue, 03 Nov 2026 13:45:12 -0600</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Find in preview: search for a word or value in text, EDI, Excel and Word previews (⌘F)</li></ul>]]></description>
+      <enclosure url="https://github.com/m-zacaula/s3browser-releases/releases/download/v2.3/S3Browser-2.3.zip" type="application/octet-stream" sparkle:edSignature="QMztW/zG7KLUkLd5pE1pyEqi1OBzefzzbS14+v8H2QO+2cyLbK5Duz+ZjtgnfYQVoRiJf8YxVP9jQ7whZNNwCg==" length="16113277"/>
+    </item>
+    <item>
       <title>S3 Browser 2.2</title>
       <pubDate>Tue, 03 Nov 2026 13:28:51 -0600</pubDate>
       <sparkle:version>4</sparkle:version>
