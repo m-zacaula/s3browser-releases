@@ -5,5 +5,14 @@
     <description>Updates for S3 Browser</description>
     <language>en</language>
     <!-- releases, newest first -->
+    <item>
+      <title>S3 Browser 2.1</title>
+      <pubDate>Tue, 03 Nov 2026 12:14:48 -0600</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>File previews: images, PDF, video, Excel, Word, CSV and text</li><li>Back button (⌘↑) to go up a folder</li><li>Automatic updates</li></ul>]]></description>
+      <enclosure url="https://github.com/m-zacaula/s3browser-releases/releases/download/v2.1/S3Browser-2.1.zip" type="application/octet-stream" sparkle:edSignature="XU5MBRH3r2+I5OsZIaEgDTys25Jso90/W1ou76Ph+8PZAgibp12ac/H/C8Ltv4zuPztzusQhgOqvqkkDhUkrDA==" length="16108223"/>
+    </item>
   </channel>
 </rss>
