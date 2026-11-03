@@ -6,6 +6,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>S3 Browser 2.4</title>
+      <pubDate>Tue, 03 Nov 2026 14:36:34 -0600</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Find works in PDFs too (⌘F)</li><li>Paste an S3 key in the search box to open it; if it&#x27;s in several buckets you pick which one</li><li>Wildcard search with % or *, and a ? button that explains search</li><li>.edi.997 files open in the EDI view</li><li>Spinner while searching; clearing the search box ends the search</li></ul>]]></description>
+      <enclosure url="https://github.com/m-zacaula/s3browser-releases/releases/download/v2.4/S3Browser-2.4.zip" type="application/octet-stream" sparkle:edSignature="9UtMlwK0Qp18B2rXhWQUxuVNzESQWiOfh2W6N6B/m2iP9g482u701QuPAb9EBYH2//QE0OuYtidepMLJe72SBA==" length="32157058"/>
+    </item>
+    <item>
       <title>S3 Browser 2.3</title>
       <pubDate>Tue, 03 Nov 2026 13:45:12 -0600</pubDate>
       <sparkle:version>5</sparkle:version>
