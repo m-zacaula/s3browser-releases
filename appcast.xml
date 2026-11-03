@@ -6,6 +6,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>S3 Browser 2.2</title>
+      <pubDate>Tue, 03 Nov 2026 13:28:51 -0600</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>EDI preview: X12 and EDIFACT files shown one segment per row, with segment names, a summary and a raw view</li></ul>]]></description>
+      <enclosure url="https://github.com/m-zacaula/s3browser-releases/releases/download/v2.2/S3Browser-2.2.zip" type="application/octet-stream" sparkle:edSignature="NmOw7Crr6HIXR1aBJkGuMDRy0Hoct6q+bc88RIszvEYp8qLKRup4874yOThZwTe+g9vj+6tgxYuhBeHl2jgBDw==" length="16111853"/>
+    </item>
+    <item>
       <title>S3 Browser 2.1</title>
       <pubDate>Tue, 03 Nov 2026 12:14:48 -0600</pubDate>
       <sparkle:version>3</sparkle:version>
