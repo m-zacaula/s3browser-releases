@@ -6,6 +6,14 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>S3 Browser 2.10</title>
+      <pubDate>Wed, 04 Nov 2026 15:27:04 -0600</pubDate>
+      <sparkle:version>2.10</sparkle:version>
+      <sparkle:shortVersionString>2.10</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>Copy key button on files, in the preview and in wildcard results</li><li>Searching a full key, or a wildcard with one match, now shows only that file, with Open folder for the rest</li><li>Windows: the app reopens by itself after an update</li></ul>]]></description>
+      <enclosure url="https://github.com/m-zacaula/s3browser-releases/releases/download/v2.10/S3Browser-Setup.exe" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/S" sparkle:edSignature="C/Af2WtEXxzJdvlwfkAIraIXku/zdOLJpd2r+MgegZCgUcPkcIxAgg72W0p5gsMym2a0kPlsK8T6W/6HXpvzAw==" length="32364078"/>
+    </item>
+    <item>
       <title>S3 Browser 2.9</title>
       <pubDate>Wed, 04 Nov 2026 14:12:20 -0600</pubDate>
       <sparkle:version>2.9</sparkle:version>
