@@ -6,6 +6,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>S3 Browser 2.7</title>
+      <pubDate>Tue, 03 Nov 2026 20:40:34 -0600</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New setting in the S3 Browser menu: Check for Updates on Open shows the update dialog when you open the app and there&#x27;s a new version</li></ul>]]></description>
+      <enclosure url="https://github.com/m-zacaula/s3browser-releases/releases/download/v2.7/S3Browser-2.7.zip" type="application/octet-stream" sparkle:edSignature="XFgdtyhKk6bWvFVSV4ygybN33RI7r9vhv/cEtVD25u0ELU7xPf2MHbiyfP6H044Qbe/a2XeuNez4UrzXHLLECw==" length="32172445"/>
+    </item>
+    <item>
       <title>S3 Browser 2.6</title>
       <pubDate>Tue, 03 Nov 2026 20:27:59 -0600</pubDate>
       <sparkle:version>8</sparkle:version>
