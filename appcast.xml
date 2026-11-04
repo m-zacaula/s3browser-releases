@@ -6,6 +6,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>S3 Browser 2.6</title>
+      <pubDate>Tue, 03 Nov 2026 20:27:59 -0600</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>2.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Choose how many items to see per page (50 by default), with Prev and Next</li><li>The top checkbox selects the page, then offers to select everything in the folder</li><li>Selecting more than 10 files for Download now points you to Download as .zip</li><li>Progress bar while a .zip is being made, and the save dialog opens right away</li></ul>]]></description>
+      <enclosure url="https://github.com/m-zacaula/s3browser-releases/releases/download/v2.6/S3Browser-2.6.zip" type="application/octet-stream" sparkle:edSignature="K9oSEZ+V7V6bJDQrwIQ7ta6+rCfledhXpM2fZU3y3pXq0OwOhxiQxuzE3RDv+PdOK/SqzHFgApGDD1JHUbKnAQ==" length="32165391"/>
+    </item>
+    <item>
       <title>S3 Browser 2.5</title>
       <pubDate>Tue, 03 Nov 2026 15:49:25 -0600</pubDate>
       <sparkle:version>7</sparkle:version>
