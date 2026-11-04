@@ -6,6 +6,14 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>S3 Browser 2.9</title>
+      <pubDate>Wed, 04 Nov 2026 14:12:20 -0600</pubDate>
+      <sparkle:version>2.9</sparkle:version>
+      <sparkle:shortVersionString>2.9</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>Folders your account can&#x27;t write to now show a Read only tag and hide Upload, New folder, Rename, Delete and Edit. View and download still work.</li></ul>]]></description>
+      <enclosure url="https://github.com/m-zacaula/s3browser-releases/releases/download/v2.9/S3Browser-Setup.exe" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/S" sparkle:edSignature="gead7mTnjy7ZbPnsPC4v4na9pnHeAGaLTcHgKJ7LfBQ9q+I6LZXGTZkwWcIvzrCTiAa2VfWqe663L1S0G9LICw==" length="32369171"/>
+    </item>
+    <item>
       <title>S3 Browser 2.8</title>
       <pubDate>Wed, 04 Nov 2026 13:07:44 -0600</pubDate>
       <sparkle:version>2.8</sparkle:version>
