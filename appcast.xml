@@ -6,6 +6,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>S3 Browser 2.13</title>
+      <pubDate>Thu, 05 Nov 2026 08:33:13 -0600</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>2.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Windows: more reliable update checks and downloads</li><li>Windows: when an update check fails, a window shows the details and logs, with a button to copy them (also in View → Update Details and Log…)</li></ul>]]></description>
+      <enclosure url="https://github.com/m-zacaula/s3browser-releases/releases/download/v2.13/S3Browser-2.13.zip" type="application/octet-stream" sparkle:edSignature="emD7BPpZ37eB0AU+g5gmng1lWEgol4WM9r/J+wGMnYXy6pc1tsTEzfZrL1G4QoK5kukX45+uRpt/1xbGRB3kCg==" length="32179246"/>
+    </item>
+    <item>
       <title>S3 Browser 2.12</title>
       <pubDate>Wed, 04 Nov 2026 22:02:26 -0600</pubDate>
       <sparkle:version>14</sparkle:version>
