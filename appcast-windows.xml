@@ -6,6 +6,14 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>S3 Browser 2.11</title>
+      <pubDate>Wed, 04 Nov 2026 20:00:38 -0600</pubDate>
+      <sparkle:version>2.11</sparkle:version>
+      <sparkle:shortVersionString>2.11</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>New Theme menu at the top: System, Light or Dark. Your choice is remembered.</li></ul>]]></description>
+      <enclosure url="https://github.com/m-zacaula/s3browser-releases/releases/download/v2.11/S3Browser-Setup.exe" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/S" sparkle:edSignature="jXoxCiFHlxwXmpRRwEy1FNgGze+UUUm/X678ehriPkqw7mWwGDalJXVAUqONNau7X2nCP+sDILgU/xt1Gkh/DA==" length="32379424"/>
+    </item>
+    <item>
       <title>S3 Browser 2.10</title>
       <pubDate>Wed, 04 Nov 2026 15:27:04 -0600</pubDate>
       <sparkle:version>2.10</sparkle:version>
